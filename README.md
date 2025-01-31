@@ -4,6 +4,12 @@ A lightweight animation library for web applications, built with TypeScript. Eas
 
 ---
 
+## Demo 🎥
+
+Here's a demo of the library in action:
+
+![Demo GIF](./assets/Ball.gif)
+
 ## Features ✨
 
 - **Simple Animations**: Fade, slide, scale, rotate, bounce, and flip.

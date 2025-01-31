@@ -1,4 +1,2 @@
-// src/index.ts
-import { TSAnimate } from './animations';
-
+import { TSAnimate } from './animations.js'; // Note the `.js` extension
 export default TSAnimate;

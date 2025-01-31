@@ -1,2 +1,2 @@
-import { TSAnimate } from './animations';
+import { TSAnimate } from './animations.js';
 export default TSAnimate;
